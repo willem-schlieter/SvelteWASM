@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksvelte_app=self.webpackChunksvelte_app||[]).push([[931],{931:(e,r,t)=>{t.r(r),t.d(r,{greet:()=>s});var p=t(484);function s(e){return p.greet(e)}},484:(e,r,t)=>{var p=t.w[e.id];e.exports=p,p[""]()}}]);
